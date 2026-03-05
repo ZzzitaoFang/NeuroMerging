@@ -1,0 +1,9 @@
+__pycache__/
+
+math_code_data/
+merged_models/
+results/
+save_gen_codes_results/
+save_logs/
+save_merge_llm_logs/
+save_models/
